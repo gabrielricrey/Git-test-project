@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-      <h1>React GitHub</h1>
+      <h1>React with git</h1>
+      <h2>Hello</h2>
     </>
   )
 }
